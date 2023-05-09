@@ -1,5 +1,5 @@
 public interface Autenticavel {
-    public void autentica(int senha);
+    public boolean autentica(int senha);
 
 
 
